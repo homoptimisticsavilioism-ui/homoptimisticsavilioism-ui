@@ -1,5 +1,5 @@
 # ‧₊˚ ⋅🌿🌱 About Me 💫𓂃 ࣪ ִֶָ.
-I'm a STEM student exploring ways to improve everyday life with eco-friendly, <br>modular tech—like intuitive interfaces, automation, and sustainable designs. <br>With skills in programming, 3D modeling, and prototyping, <br>I enjoy blending ideas from robotics, biomimicry, HCI, smart systems, and R&D to build adaptive solutions. 
+I'm a STEM student exploring ways to improve everyday life with eco-friendly, modular tech—like intuitive interfaces, automation, and sustainable designs. <br>With skills in programming, 3D modeling, and prototyping, <br>I enjoy blending ideas from robotics, biomimicry, HCI, smart systems, and R&D to build adaptive solutions. 
 
 
 # ๋࣭ ⭑✮💻₊ ⊹ Tech Stack
